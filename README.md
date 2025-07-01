@@ -15,3 +15,9 @@ The research paper is primarily based on theoretical concepts of Large Language 
 4. Llama 3.2:1b by Meta for Conversational-based interaction
 
 These implementations have greatly helped me understand the working of Large Language Models, and I hope they help others understand better about Large Language Models as well.
+
+Original Research Paper from IEEE Xplore:- https://ieeexplore.ieee.org/document/10433480
+
+“A Comprehensive Overview of Large Language Models” Research Paper from arXiv:-https://arxiv.org/pdf/2307.06435
+
+“TinyLlama: An Open-Source Small Language Model” Research Paper from arXiv:- https://arxiv.org/pdf/2401.02385
